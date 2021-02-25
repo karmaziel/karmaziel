@@ -2,7 +2,7 @@
 
 ![cooltext karmaziel](https://p79.cooltext.com/Rendered/Cool%20Text%20-%20karmaziel%20377594246556264.png)
 
-<!--
+
 Mi nombre es ✨ _Jahatziel_ ✨
 
 - 📚 Soy estudiante del Instituto Tecnológico de Tijuana
@@ -18,4 +18,3 @@ Mi nombre es ✨ _Jahatziel_ ✨
 | práctica de markdown | 1 | 2 |
 | abcdef               | 3 | 4 |
 
--->
